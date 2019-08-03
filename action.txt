@@ -1,0 +1,6 @@
+echo # leetCode  README.md
+git init
+git add README.md
+git commit -m first commit
+git remote add origin httpsgithub.comSakura-QleetCode.git
+git push -u origin master
