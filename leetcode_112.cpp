@@ -30,6 +30,6 @@ public:
 			}
 			result.push_back(ss);
 		}
-		
+		return result;
 	}
 };
